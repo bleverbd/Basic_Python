@@ -7,7 +7,7 @@ git config --global user.email "your_useremail" <br>
     jupyter notebook --generate-config<br>
 
 2.Goto Jupyter Notebook and check Current Path<br>
-    "\t"import os <br>
+    <   >import os <br>
     print(os.getcwd()) <br>
 3.Goto this Path from 2 number Step<br>
     1.Open .jupyter Folder <br>
