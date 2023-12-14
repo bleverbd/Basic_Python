@@ -5,7 +5,6 @@ git config --global user.email "your_useremail" <br>
 ### Jupyter Notebook Path Change<br>
 1.Goto anaconda Command Powershell Prompt<br>
     jupyter notebook --generate-config<br>
-
 2.Goto Jupyter Notebook and check Current Path<br>
    &nbsp;&nbsp;import os <br>
     &nbsp;&nbsp;print(os.getcwd()) <br>
